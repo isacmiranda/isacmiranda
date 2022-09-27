@@ -30,6 +30,12 @@ a:hover{background-color: rgb(248, 81, 59);
         cursor: pointer;
 }
 
+a:link,a:visited,a:active
+{
+    color: #000000;
+    text-decoration: none;
+}
+
 /*CORPO DO SITE ////////////////////*/
 
 main {  border-top: 0.4px solid #000000;
