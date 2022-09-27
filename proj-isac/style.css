@@ -21,20 +21,21 @@ header{
  }
 
 a{ text-decoration: none;
-   color: #FF0000;
+
    font-weight: bold;
         
 }
-a:hover{background-color: rgb(248, 81, 59);
-        font-size: 16px;
-        cursor: pointer;
-}
-
 a:link,a:visited,a:active
 {
     color: #000000;
     text-decoration: none;
 }
+
+a:hover{background-color: rgb(248, 81, 59);
+        font-size: 16px;
+        cursor: pointer;
+}
+
 
 /*CORPO DO SITE ////////////////////*/
 
